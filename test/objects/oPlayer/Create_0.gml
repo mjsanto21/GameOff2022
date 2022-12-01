@@ -1,0 +1,32 @@
+/// @description Establish some key variables
+audio_listener_orientation(0,1,0,0,0,1);
+
+hsp = 0;
+vsp = 0;
+grv= 0.3;
+walkspd = 6;
+jumpspd = 9;
+dashspd = 20;
+isOnWall = false;
+stored = 0;
+doubleJump = 0;
+dashdelay = 0;
+dashduration = 0;
+airdash = 0;
+walljumpduration = 0;
+walljumpdir =0;
+jumpsprite =0;
+hascontrol = true;
+isOnPlatform = false;
+play_footstep = 0;
+footstep_value = 2;
+prev_value = 0;
+dash_se = 1;
+jump_se = 1;
+slide_se = 1;
+slide_trigger =0;
+impact_se = 1;
+in_air = 0;
+big_air = 0;
+doubleJump_sprite = 0;
+moved = 0;

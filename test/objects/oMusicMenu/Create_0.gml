@@ -1,0 +1,1 @@
+audio_play_sound(mBridge,1000,true);
